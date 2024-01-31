@@ -1,10 +1,7 @@
 body {
   font-family: 'Work Sans', sans-serif;
-  /* Body copy font size */
   background-color: hsl(275, 100%, 97%);
-  /* Light pink background */
   color: hsl(292, 16%, 49%);
-  /* Grayish purple text */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,13 +18,9 @@ body {
   border-radius: 15px;
   width: 100%;
   max-width: 500px;
-  /* Desktop width */
   margin: 0 auto;
-  /* Center the container */
   padding: 20px;
-  /* Add some padding */
   background-color: hsl(0, 0%, 100%);
-  /* White background for the container */
 }
 
 .faq-header {
@@ -70,7 +63,6 @@ body {
 
 .faq-question:hover h3 {
   color: rgb(173, 40, 235);
-  /* Light pink */
 }
 
 .icon-plus,
