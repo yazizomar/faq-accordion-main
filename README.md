@@ -16,3 +16,5 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - Frontend Mentor - [@yazizomar](https://www.frontendmentor.io/profile/yazizomar)
 - Twitter - [@omar_yaziz](https://www.twitter.com/omar_yaziz)
 
+## Result
+- (https://yazizomar.github.io/faq-accordion-main/)
